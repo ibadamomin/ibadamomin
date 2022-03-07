@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ibadamomin
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Software Development
 - 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ibadalimomin@gmail.com
+- 📫 You can reach me ibadalimomin@gmail.com
 
 <!---
 ibadamomin/ibadamomin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
